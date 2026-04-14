@@ -1,6 +1,5 @@
-## Hi there 👋
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Leetsec+Sarwar;Cyber+Security+Specialist;VAPT+Expert;WordPress+Security+Engineer;OSCP+In+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Leetsec+Sarwar;Cyber+Security+Specialist;VAPT+Expert;OSCP+In+Progress" />
 </h1>
 
 <p align="center">
@@ -18,13 +17,15 @@
 ---
 
 ## 🔐 About Me
-<img align="right" alt="hacker" width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
+<img align="right" alt="hacker" width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
 
 - 🔐 I help businesses **secure their websites from cyber attacks**
-- 🛡️ متخصص in **Web Application Security & WordPress Hardening**
+- 🛡️ Specialized in **Web Application Security & WordPress Hardening**
 - 💼 Providing **Vulnerability Assessment & Penetration Testing (VAPT)**
-- 🐞 Helping fix real-world vulnerabilities (XSS, SQLi, CSRF)
+- 🐞 Fixing real-world vulnerabilities (XSS, SQLi, CSRF)
 - 🎯 Currently preparing for **OSCP Certification**
+
+📩 **DM me or visit my website for security services**
 
 <br clear="both"/>
 
@@ -81,19 +82,26 @@
 
 ## 💣 Featured Work
 
-> 🚧 Projects are actively being developed & will be published soon
+🚧 **Projects are actively being developed & will be published soon**
 
-- 🔐 Web Vulnerability Scanner (Python)
-- 🛡️ WordPress Security Toolkit
-- 🕵️ OSINT Automation Suite
-- 💥 XSS Payload Collection
+- 🔐 **Web Vulnerability Scanner**  
+  → Detects common vulnerabilities like SQLi & XSS  
+
+- 🛡️ **WordPress Security Toolkit**  
+  → Hardening + malware detection  
+
+- 🕵️ **OSINT Automation Suite**  
+  → Recon & investigation tools  
+
+- 💥 **XSS Payload Collection**  
+  → Advanced payloads for testing  
 
 ---
 
 ## 🏆 Achievements
 
 - 🎓 Completed **CEH (Certified Ethical Hacker)**
-- 🧠 Active learner on cybersecurity labs
+- 🧠 Active learner in cybersecurity labs
 - 🎯 Focused on real-world attack & defense techniques
 
 ---
@@ -104,8 +112,8 @@
   <a href="https://ai1security.net">
     <img src="https://img.shields.io/badge/Website-ai1security.net-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/leetsec-sarwar">
-    <img src="https://img.shields.io/badge/GitHub-leetsec--sarwar-181717?style=for-the-badge&logo=github" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -118,4 +126,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
 </p>
-
