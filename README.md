@@ -105,7 +105,7 @@
 
 ---
 
-## 🏆 Certifications
+## 🏆 Achievements
 
 <p align="center">
   <a href="https://github.com/leetsec-sarwar/certifications/blob/main/Google%20Cybersecurity.jpg">
