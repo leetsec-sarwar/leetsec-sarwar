@@ -107,16 +107,47 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github.com/leetsec-sarwar/certifications/blob/main/Google%20Cybersecurity.pdf" width="400"/>
-</p>
-<p align="center">
-  <img src="https://github.com/leetsec-sarwar/certifications/blob/main/Ethical%20Hacker.pdf" width="400"/>
-</p>
-<p align="center">
-  <img src="https://github.com/leetsec-sarwar/certifications/blob/main/AWS%20Certificate.jpg" width="400"/>
-</p>
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Google%20Cybersecurity.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Google%20Cybersecurity.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Ethical%20Hacker.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Ethical%20Hacker.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/AWS%20Certificate.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/AWS%20Certificate.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Assets%20Threats%20and%20Vulnerabilities.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Assets%20Threats%20and%20Vulnerabilities.jpg" width="200"/></a></td>
+  </tr>
 
+  <tr>
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Automate%20Cybersecurity%20Tasks%20with%20Python.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Automate%20Cybersecurity%20Tasks%20with%20Python.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Connect%20and%20Protect.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Connect%20and%20Protect.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Cyber%20Threat%20Management.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Cyber%20Threat%20Management.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Endpoint%20Security.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Endpoint%20Security.jpg" width="200"/></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Foundations%20of%20Cybersecurity.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Foundations%20of%20Cybersecurity.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Introduction%20to%20Cybersecurity.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Introduction%20to%20Cybersecurity.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Manage%20Security%20Risks.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Manage%20Security%20Risks.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Network%20Security.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Network%20Security.jpg" width="200"/></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Networking%20Basics.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Networking%20Basics.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Sound%20the%20Alarm%20Detection%20and%20Response.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Sound%20the%20Alarm%20Detection%20and%20Response.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/Tools%20of%20the%20Trade%20Linux%20and%20SQL.jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/Tools%20of%20the%20Trade%20Linux%20and%20SQL.jpg" width="200"/></a></td>
+    
+    <td><a href="https://github.com/leetsec-sarwar/certifications/raw/main/certificate%20(SOC).jpg" target="_blank"><img src="https://github.com/leetsec-sarwar/certifications/raw/main/certificate%20(SOC).jpg" width="200"/></a></td>
+  </tr>
+</table>
 ---
 
 ## 🌐 Connect With Me
