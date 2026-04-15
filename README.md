@@ -109,16 +109,20 @@
 
 <p align="center">
   <a href="https://github.com/leetsec-sarwar/certifications/blob/main/Google%20Cybersecurity.jpg">
-    <img src="https://github.com/leetsec-sarwar/certifications/raw/main/Google%20Cybersecurity.jpg" width="180"/>
+    <img src="https://github.com/leetsec-sarwar/certifications/raw/main/Google%20Cybersecurity.jpg" 
+         width="220" height="280" style="object-fit: contain; margin: 8px;"/>
   </a>
   <a href="https://github.com/leetsec-sarwar/certifications/blob/main/Ethical%20Hacker.jpg">
-    <img src="https://github.com/leetsec-sarwar/certifications/raw/main/Ethical%20Hacker.jpg" width="180"/>
+    <img src="https://github.com/leetsec-sarwar/certifications/raw/main/Ethical%20Hacker.jpg" 
+         width="220" height="280" style="object-fit: contain; margin: 8px;"/>
   </a>
   <a href="https://github.com/leetsec-sarwar/certifications/blob/main/AWS%20Certificate.jpg">
-    <img src="https://github.com/leetsec-sarwar/certifications/raw/main/AWS%20Certificate.jpg" width="180"/>
+    <img src="https://github.com/leetsec-sarwar/certifications/raw/main/AWS%20Certificate.jpg" 
+         width="220" height="280" style="object-fit: contain; margin: 8px;"/>
   </a>
   <a href="https://github.com/leetsec-sarwar/certifications/blob/main/Endpoint%20Security.jpg">
-    <img src="https://github.com/leetsec-sarwar/certifications/raw/main/Endpoint%20Security.jpg" width="180"/>
+    <img src="https://github.com/leetsec-sarwar/certifications/raw/main/Endpoint%20Security.jpg" 
+         width="220" height="280" style="object-fit: contain; margin: 8px;"/>
   </a>
 </p>
 
@@ -127,6 +131,7 @@
     🔗 View All Certifications
   </a>
 </p>
+
 ---
 
 ## 🌐 Connect With Me
