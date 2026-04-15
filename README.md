@@ -107,9 +107,15 @@
 
 ## 🏆 Achievements
 
-- 🎓 Completed **CEH (Certified Ethical Hacker)**
-- 🧠 Active learner in cybersecurity labs
-- 🎯 Focused on real-world attack & defense techniques
+<p align="center">
+  <img src="https://github.com/leetsec-sarwar/certifications/blob/main/Google%20Cybersecurity.pdf" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/leetsec-sarwar/certifications/blob/main/Ethical%20Hacker.pdf" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/leetsec-sarwar/certifications/blob/main/AWS%20Certificate.jpg" width="400"/>
+</p>
 
 ---
 
