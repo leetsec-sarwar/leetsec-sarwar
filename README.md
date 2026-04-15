@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Leetsec+Sarwar;Cyber+Security+Specialist;VAPT+Expert;OSCP+In+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>,+I'm+Leetsec+Sarwar;Cyber+Security+Specialist;VAPT+Expert;OSCP+In+Progress" />
 </h1>
 
 <p align="center">
@@ -19,12 +19,18 @@
 ## 🔐 About Me
 <img align="right" alt="hacker" width="280" src="https://github.com/leetsec-sarwar/leetsec-sarwar/blob/main/welcome.gif" />
 
+- Name : Md Sarwar Hossain Nipu
+  - From: Dhaka,Bangladesh
+  - Experience in **Red Teaming**, **Networking Security**, **Ethical Hacking**, **Wordpress Core Security**
+<br>
+  - Contact me at: **sarwarhossainnipu75@gmail.com**
+<br><br>
 - 🔐 I help businesses **secure their websites from cyber attacks**
 - 🛡️ Specialized in **Web Application Security & WordPress Hardening**
 - 💼 Providing **Vulnerability Assessment & Penetration Testing (VAPT)**
-- 🐞 Fixing real-world vulnerabilities (XSS, SQLi, CSRF)
+- 🐞 Fixing real-world vulnerabilities (XSS, SQLi, CSRF, LFI)
 - 🎯 Currently preparing for **OSCP Certification**
-
+<br>
 📩 Hire me for penetration testing & security audits
 
 <br clear="both"/>
@@ -38,7 +44,7 @@
 - 🐞 Bug Hunting & Vulnerability Assessment
 - 🌐 OSINT & Reconnaissance
 
-📩 **Available for freelance & security projects**
+📩 **Available for freelance and remote cybersecurity projects**
 
 ---
 
@@ -62,7 +68,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leetsec-sarwar&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=leetsec-sarwar&theme=radical&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=leetsec-sarwar&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -109,12 +115,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://ai1security.net">
-    <img src="https://img.shields.io/badge/Website-ai1security.net-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:sarwarhossainnipu75@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sarwar-04268a226/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mail:sarwarhossainnipu75@gmail.com)
 </p>
 
 ---
