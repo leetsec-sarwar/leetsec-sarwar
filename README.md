@@ -1,10 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+I'm+Leetsec+Sarwar;Cyber+Security+Specialist;VAPT+Expert;OSCP+In+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Leetsec+Sarwar;Cyber+Security+Specialist;VAPT+Expert;OSCP+In+Progress" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Ethical%20Hacker-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
@@ -21,21 +18,21 @@
 ---
 
 ## 🔐 About Me
+
 <img align="right" alt="hacker" width="280" src="https://github.com/leetsec-sarwar/leetsec-sarwar/blob/main/welcome.gif" />
 
-- Name : Md Sarwar Hossain Nipu
-  - From: Dhaka,Bangladesh
-  - Experience in **Red Teaming**, **Networking Security**, **Ethical Hacking**, **Wordpress Core Security**
-<br>
-  - Contact me at: **sarwarhossainnipu75@gmail.com**
-<br><br>
-- 🔐 I help businesses **secure their websites from cyber attacks**
-- 🛡️ Specialized in **Web Application Security & WordPress Hardening**
-- 💼 Providing **Vulnerability Assessment & Penetration Testing (VAPT)**
-- 🐞 Fixing real-world vulnerabilities (XSS, SQLi, CSRF, LFI)
-- 🎯 Currently preparing for **OSCP Certification**
-<br>
-📩 Hire me for penetration testing & security audits
+- 👤 **Name:** Md Sarwar Hossain Nipu  
+- 📍 **Location:** Dhaka, Bangladesh  
+- 💻 **Expertise:** Red Teaming | Network Security | Ethical Hacking | WordPress Core Security  
+
+- 🔐 I help businesses **secure their websites from cyber attacks**  
+- 🛡️ Specialized in **Web Application Security & WordPress Hardening**  
+- 💼 Providing **Vulnerability Assessment & Penetration Testing (VAPT)**  
+- 🐞 Fixing real-world vulnerabilities (**XSS, SQLi, CSRF, LFI**)  
+- 🎯 Currently preparing for **OSCP Certification**  
+
+- 📩 **Contact:** sarwarhossainnipu75@gmail.com  
+- 🚀 **Available for:** Penetration Testing & Security Audits  
 
 <br clear="both"/>
 
