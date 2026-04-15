@@ -17,7 +17,7 @@
 ---
 
 ## 🔐 About Me
-<img align="right" alt="hacker" width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
+<img align="right" alt="hacker" width="260" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 - 🔐 I help businesses **secure their websites from cyber attacks**
 - 🛡️ Specialized in **Web Application Security & WordPress Hardening**
