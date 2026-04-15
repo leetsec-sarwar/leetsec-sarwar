@@ -116,8 +116,29 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sarwar-04268a226/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mail:sarwarhossainnipu75@gmail.com)
+  <a href="https://ai1security.net/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/md-sarwar-04268a226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:sarwarhossainnipu75@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.facebook.com/mdsarwarhossain.nipu" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.youtube.com/@leetsec_sarwar" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
+  </a>
+  
+  <a href="https://medium.com/@leetsecsarwar" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
