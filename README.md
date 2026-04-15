@@ -17,7 +17,7 @@
 ---
 
 ## 🔐 About Me
-<img align="right" alt="hacker" width="300" src="https://github.com/leetsec-sarwar/leetsec-sarwar/blob/main/welcome.gif" />
+<img align="right" alt="hacker" width="280" src="https://github.com/leetsec-sarwar/leetsec-sarwar/blob/main/welcome.gif" />
 
 - 🔐 I help businesses **secure their websites from cyber attacks**
 - 🛡️ Specialized in **Web Application Security & WordPress Hardening**
@@ -25,7 +25,7 @@
 - 🐞 Fixing real-world vulnerabilities (XSS, SQLi, CSRF)
 - 🎯 Currently preparing for **OSCP Certification**
 
-📩 **DM me or visit my website for security services**
+📩 Hire me for penetration testing & security audits
 
 <br clear="both"/>
 
@@ -112,7 +112,7 @@
   <a href="https://ai1security.net">
     <img src="https://img.shields.io/badge/Website-ai1security.net-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sarwarhossainnipu75@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
