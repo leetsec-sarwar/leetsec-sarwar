@@ -17,7 +17,7 @@
 ---
 
 ## 🔐 About Me
-<img align="right" alt="hacker" width="260" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="right" alt="hacker" width="300" src="https://github.com/leetsec-sarwar/leetsec-sarwar/blob/main/welcome.gif" />
 
 - 🔐 I help businesses **secure their websites from cyber attacks**
 - 🛡️ Specialized in **Web Application Security & WordPress Hardening**
